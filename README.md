@@ -49,4 +49,4 @@ https://www.linkedin.com/in/amansingh-dataanalyst/
 ## Project screenshot 
 ![Screenshot (98)](https://github.com/user-attachments/assets/6ced3b89-0dc7-4cd2-8ba0-04effdd0cce2)
 
-NOTE: This analysis was conducted as part of a project and is for educational purposes only.
+NOTE: This educational case study material is purely fictional and does not represent any actual companies or data. Any resemblance to real entities is coincidental, and it is intended solely for educational purposes.
